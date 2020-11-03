@@ -1,0 +1,20 @@
+{
+  "name": "open-websockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PromiseFru/open-websockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PromiseFru/open-websockets/issues"
+  },
+  "homepage": "https://github.com/PromiseFru/open-websockets#readme"
+}
